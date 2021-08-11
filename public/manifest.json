@@ -1,0 +1,6 @@
+{
+  "short_name": "Github Finder",
+  "name": "Github Finder | Find Github users",
+  "start_url": ".",
+  "display": "standalone"
+}
